@@ -1,0 +1,6 @@
+@ZondaAPI_HostAddress = http://localhost:5204
+
+GET {{ZondaAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

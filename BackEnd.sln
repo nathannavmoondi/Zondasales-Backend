@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZondaAPI", "ZondaAPI.csproj", "{B32BF1B1-5CC7-5361-0F3C-6D62C9A774BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B32BF1B1-5CC7-5361-0F3C-6D62C9A774BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B32BF1B1-5CC7-5361-0F3C-6D62C9A774BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B32BF1B1-5CC7-5361-0F3C-6D62C9A774BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B32BF1B1-5CC7-5361-0F3C-6D62C9A774BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {163C0E66-0692-4D6C-A074-7A86C30A8110}
+	EndGlobalSection
+EndGlobal
